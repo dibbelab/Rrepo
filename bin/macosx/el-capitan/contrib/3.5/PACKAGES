@@ -5,4 +5,4 @@ Imports: uwot, igraph, ggplot2, rsvd, ggrepel, Rtsne, fastmatch, edgeR, BiocPara
              reshape2, RcppParallel, Rcpp, MASS, locfit
 LinkingTo: Rcpp (>= 0.11.0), RcppGSL, RcppEigen, RcppProgress, RcppParallel
 License: GPL-3
-MD5sum: aeec1b0ddc6022b067943a4562d6185c
+MD5sum: c59dfc781c576f8766e474060310f53c
