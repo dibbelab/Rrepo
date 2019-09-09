@@ -1,8 +1,8 @@
 Package: gficf
-Version: 0.3
+Version: 0.3.1
 Depends: R (>= 3.4.0)
-Imports: uwot, igraph, ggplot2, rsvd, ggrepel, Rtsne, fastmatch, edgeR, BiocParallel, fgsea, RSpectra, Matrix, biomaRt,
-             reshape2, RcppParallel, Rcpp, MASS, locfit
+Imports: uwot, igraph, ggplot2, rsvd, ggrepel, Rtsne, fastmatch, edgeR, BiocParallel, fgsea, RSpectra, Matrix, biomaRt, reshape2, RcppParallel, Rcpp,
+                MASS, locfit, reticulate, leiden
 LinkingTo: Rcpp (>= 0.11.0), RcppGSL, RcppEigen, RcppProgress, RcppParallel
 License: GPL-3
-MD5sum: c59dfc781c576f8766e474060310f53c
+MD5sum: d63ff6b2f8e5fe0c077ec1b0621abd08
